@@ -126,7 +126,7 @@ setup(
 
         # Used in openaddr.parcels
         'Shapely == 1.5.17',
-        'Fiona == 1.7.0.post2',
+        #'Fiona == 1.7.0.post2',
 
         # http://pythonhosted.org/itsdangerous/
         'itsdangerous == 0.24',
